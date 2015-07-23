@@ -1,0 +1,23 @@
+{
+  "name": "commandline-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-logan/commandline-calendar.git"
+  },
+  "author": "James Logan <jamesblogan20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-logan/commandline-calendar/issues"
+  },
+  "homepage": "https://github.com/james-logan/commandline-calendar#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
